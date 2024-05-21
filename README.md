@@ -1,32 +1,30 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dzxhn37ae/image/upload/v1715425278/uuciewpx74unm2fpus66.gif" alt="Banner">
+  <img src="https://res.cloudinary.com/djlvc2f1r/image/upload/v1716263499/kvacd8xkopxgzzkbwad5.gif" alt="Banner">
 </p>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-, I'm Mayank Yadav </h1>
-<h3 align="center"> Front-End Developer from India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mayankyadav1711" alt="mayankyadav1711" /> </p>
+, I'm Darshit Sojitra </h1>
+<h3 align="center">Front-End Developer from India</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DPS21302" alt="DPS21302" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankyadav1711" alt="mayankyadav1711" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DPS21302" alt="DPS21302" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mayankyadav_17" target="blank"><img src="https://img.shields.io/twitter/follow/mayankyadav_17?logo=twitter&style=for-the-badge" alt="mayankyadav_17" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DarshitSojitraa" target="blank"><img src="https://img.shields.io/twitter/follow/DarshitSojitraa?logo=twitter&style=for-the-badge" alt="DarshitSojitraa" /></a> </p>
 
-- 🌱 I’m currently learning **Wordpress and Devops.**
+- 🌱 I’m currently learning **Wordpress**
 
-- 👨‍💻 All of my projects are available at [(https://darshit-dev.vercel.app/)](https://darshit-dev.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://darshit-dev.vercel.app/](https://darshit-dev.vercel.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@myk17](https://hashnode.com/@myk17)
+- 📝 I regularly write articles on [https://hashnode.com/@darshitsojitra](https://hashnode.com/@darshitsojitra)
 
-- 💬 Ask me about **React.Js, Next.Js, Node.Js etc**
-
-- 📫 How to reach me **mykyadav2003@gmail.com**
+- 📫 How to reach me **sojitradarshitpiyushbhai@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yaIBkjaDAiMNdi63Pi_Lerl7PktDAlPZ/view?usp=sharing](https://drive.google.com/file/d/1yaIBkjaDAiMNdi63Pi_Lerl7PktDAlPZ/view?usp=sharing)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mayankyadav_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayankyadav_17" height="30" width="40" /></a>
+<a href="https://twitter.com/DarshitSojitraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DarshitSojitraa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayankyadav17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankyadav17" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21119026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21119026" height="30" width="40" /></a>
 <a href="https://instagram.com/___mayank17___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___mayank17___" height="30" width="40" /></a>
