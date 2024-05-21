@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/DarshitSojitraa" target="blank"><img src="https://img.shields.io/twitter/follow/DarshitSojitraa?logo=twitter&style=for-the-badge" alt="DarshitSojitraa" /></a> </p>
 
-- 🌱 I’m currently learning **Wordpress**
+- 🌱 I’m currently learning **Wordpress.**
 
 - 👨‍💻 All of my projects are available at [https://darshit-dev.vercel.app/](https://darshit-dev.vercel.app/)
 
@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/darshitsojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshitsojitra" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21456022/darshit-sojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21456022" height="30" width="40" /></a>
 <a href="https://instagram.com/darshit_sojitraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshit_sojitraa" height="30" width="40" /></a>
-<a href="https://hashnode.com/@darshitsojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/DPS21302/ColleGPT-frontend-2.0/master/brand-icon.min.svg?token=GHSAT0AAAAAACSO6VDZUCXYZIMIRTZUIER2ZSMHKFA" alt="@darshitsojitra" height="30" width="40" /></a>
+<a href="https://hashnode.com/@darshitsojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/DPS21302/ColleGPT-frontend-2.0/master/brand-icon.min.svg" alt="@darshitsojitra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCtViQwR4jQJ6AvpkurMn-AQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ColleGPT" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/mayankyadav_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankyadav_17" height="30" width="40" /></a> -->
 </p>
